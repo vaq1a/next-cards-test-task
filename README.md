@@ -12,3 +12,6 @@ pnpm dev
 # or
 bun dev
 ```
+
+## Лучший мем:
+![Mem](./mem.png)

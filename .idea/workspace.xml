@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a34dad-f0d5-4bee-bcea-da95a6bb51df" name="Changes" comment="feat: init">
-      <change afterPath="$PROJECT_DIR$/data/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/[id]/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/products/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddProductForm/AddProductForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddProductModal/AddProductModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Loader/Loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductCard/ProductCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Products/Products.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/findProductById.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/getProducts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useAddProductForm.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/providers/ChakraUIProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/productsApi.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/IAddProductFormData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/IProductCard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mem.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +63,7 @@
       <updated>1721664559569</updated>
       <workItem from="1721664562376" duration="17000" />
       <workItem from="1721664580664" duration="17673000" />
-      <workItem from="1721721375015" duration="584000" />
+      <workItem from="1721721375015" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init">
       <option name="closed" value="true" />
